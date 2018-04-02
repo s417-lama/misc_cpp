@@ -14,7 +14,8 @@
 using namespace std;
 
 typedef long long ll;
-typedef vector<int> veci;
+typedef vector<int> ivec;
+typedef pair<int, int> ipair;
 
 int main() {
     return 0;
